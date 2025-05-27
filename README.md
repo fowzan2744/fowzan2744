@@ -8,9 +8,6 @@
 - **Database**: MongoDB (Compass & Atlas)
 - **Authentication**: JWT, Google OAuth
 - **Tools**: Git, GitHub, Vite
-
-- ### 🛠️ Languages and Tools:
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +32,7 @@
 ## 📚 What I'm Currently Working On
 - Building full-stack web applications using the MERN stack
 - Strengthening my Data Structures & Algorithms skills in C++ and Python
-- 
+
 <!---
 fowzan2744/fowzan2744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
